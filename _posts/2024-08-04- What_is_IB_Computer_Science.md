@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "What is IB Computer Science?"
-date:   2020-08-23 21:21:21 +0530
+date:   2024-07-19
 tags: [fiction]
 ---
 # What is IB Computer Science?

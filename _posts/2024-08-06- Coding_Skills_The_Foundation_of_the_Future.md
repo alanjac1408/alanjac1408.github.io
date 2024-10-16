@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Coding Skills: The Foundation of the Future"
-date:   2020-08-23 21:21:21 +0530
+date:   2024-01-11
 tags: [fiction]
 ---
 # Coding Skills: The Foundation of the Future
