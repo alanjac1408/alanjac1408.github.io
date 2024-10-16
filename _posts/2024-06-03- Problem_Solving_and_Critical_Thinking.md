@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Problem-Solving and Critical Thinking: More than Just Coding"
-date:   2024-08-22
+date:   2024-08-22 21:21:21 +0530
 tags: [fiction]
 ---
 # Problem-Solving and Critical Thinking: More than Just Coding
